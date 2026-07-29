@@ -1,3 +1,8 @@
+
+<img width="2048" height="1122" alt="image" src="https://github.com/user-attachments/assets/ea3a7126-23c4-48f8-8568-9fa9940313bd" />
+
+
+
 # Point Distance Measure 3.2
 
 ## PixInsight utility script for measuring pixel and angular distances
