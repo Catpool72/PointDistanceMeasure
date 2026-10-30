@@ -27,6 +27,19 @@ Measurement points can be selected with the mouse and refined by dragging or wit
 - Approximate angular-distance calculation from image metadata when WCS is unavailable.
 - Display of results in the dialog box and in the PixInsight console.
 
+## Installation via PixInsight update repository
+
+1. In PixInsight open **Resources > Updates > Manage Repositories**.
+2. Click **Add** and enter:
+
+   `https://raw.githubusercontent.com/Catpool72/PointDistanceMeasure/main/repository/`
+
+3. Click **OK**, then run **Resources > Updates > Check for Updates**.
+4. Apply the update and restart PixInsight when asked.
+5. The script appears under **Script > Utilities > PointDistanceMeasure**.
+
+The repository is unsigned, so PixInsight shows a warning before downloading; this is expected.
+
 ## Starting the script
 
 The script file name is:

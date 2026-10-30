@@ -1,5 +1,6 @@
 # Point Distance Measure 3.2
 
+
 ## PixInsight segédscript pixel- és szögtávolság mérésére
 
 A **Point Distance Measure 3.2** egy interaktív PixInsight JavaScript/PJSR segédprogram. Két, képen kijelölt pont között pixelben mér távolságot, és megfelelő képi metaadatok esetén meghatározza a hozzá tartozó égi szögtávolságot is.
@@ -25,6 +26,19 @@ A pontok egérrel kijelölhetők, húzással vagy billentyűzettel finomítható
 - Az eredmények megjelenítése a párbeszédablakban és a PixInsight konzolján.
 
 ---
+
+## Telepítés PixInsight frissítési repositoryból
+
+1. PixInsightban nyisd meg: **Resources > Updates > Manage Repositories**.
+2. Kattints az **Add** gombra, és add meg:
+
+   `https://raw.githubusercontent.com/Catpool72/PointDistanceMeasure/main/repository/`
+
+3. **OK**, majd **Resources > Updates > Check for Updates**.
+4. Alkalmazd a frissítést, és kérésre indítsd újra a PixInsightot.
+5. A script a **Script > Utilities > PointDistanceMeasure** menüpontban jelenik meg.
+
+A repository nincs aláírva, ezért a PixInsight letöltés előtt figyelmeztet – ez várható.
 
 ## Indítás
 

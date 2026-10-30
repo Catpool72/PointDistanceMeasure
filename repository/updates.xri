@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>Point Distance Measure – PixInsight script repository by Catpool72.</p>
+      <p>https://github.com/Catpool72/PointDistanceMeasure</p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
+      <package fileName="20261030-PointDistanceMeasure.zip" sha1="3d2ed95406f328a352f278e441ecde2c7c33a000" type="script" releaseDate="20261030">
+         <title>Point Distance Measure 3.2</title>
+         <description>
+            <p>Interactive full-resolution pixel and WCS angular distance measurement with draggable points, live readout and optional star-centroid snapping.</p>
+            <p>After installation the script appears under Script &gt; Utilities &gt; PointDistanceMeasure.</p>
+         </description>
+      </package>
+   </platform>
+</xri>
